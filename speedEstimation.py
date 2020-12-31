@@ -151,6 +151,3 @@ if __name__ == '__main__':
 	
 
 
-
-#================================= created by :https://github.com/kraten ========================
-#================================= modified by :https://github.com/hahahihidede ========================
